@@ -9,4 +9,5 @@
 | **Application Observability and Maintenance** | 1. Understand API deprecations<br>2. Implement probes and health checks<br>3. Use provided tools to monitor Kubernetes applications<br>4. Utilize container logs<br>5. Debugging in Kubernetes | 15%          |
 
 
-<iframe src="https://free.timeanddate.com/countdown/i8z19jqf/n13/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcf00/tcfff/fs100/szw320/szh135/tatPromotion%20Ends%20In/tac000/tptCountdown/tpc000/mac000/mpc000/iso2024-12-25T23:59:59" frameborder="0" width="320" height="135"></iframe>
+
+<span style="color:red;">This text is red!</span>
