@@ -10,6 +10,9 @@
 
 
 
-<span style="color:red;">This text is red!</span>
+| Promotion Message                           | Exam GitHub Repos                                                                 |
+|---------------------------------------------|-----------------------------------------------------------------------------------|
+| 🔴 This is a red-themed headline            | - [CKAD Study Guide 2024](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup> |
+| Hurry up! 🚨 Promotion ends soon!           | - [CKA Study Guide 2024](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup> |
+|                                             | - [CKS Study Guide 2024](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup> |
 
-$${\color{red}Red}$$
