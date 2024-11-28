@@ -12,7 +12,7 @@
 
 | Exam Prepartion Guide ( Blog)                           | Exam Prepartion Guide (GitHub)           |
 |---------------------------------------------|-----------------------------------------------------------------------------------|
-|[CKAD Study Guide 2024](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>          |[CKAD Exam Githu 2024](https://github.com/teckbootcamps/CKAD-Certified-Kubernetes-Application-Developer)<sup>Github</sup>  |
-|[CKA Study Guide 2024](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>           | [CKA Exam Githu 2024]([https://github.com/teckbootcamps/CKAD-Certified-Kubernetes-Application-Developer](https://github.com/teckbootcamps/CKA-Certified-Kubernetes-Administrator))<sup>Github</sup> |
-|[CKS Study Guide 2024](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>           |  [CKS Exam Githu 2024]([https://github.com/teckbootcamps/CKAD-Certified-Kubernetes-Application-Developer](https://github.com/teckbootcamps/CKS-Certified-Kubernetes-Security-Specialist))<sup>Github</sup>|
+|[CKAD Study Guide](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>  |[CKAD Exam GitHub](https://github.com/teckbootcamps/CKAD-Certified-Kubernetes-Application-Developer)<sup>Github</sup>  |
+|[CKA Study Guide](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup> | [CKA Exam GitHub]([https://github.com/teckbootcamps/CKAD-Certified-Kubernetes-Application-Developer])<sup>Github</sup> |
+|[CKS Study Guide](https://teckbootcamps.com/ckad-exam-study-guide/)<sup>Blog</sup>  |  [CKS Exam GitHub]([https://github.com/teckbootcamps/CKAD-Certified-Kubernetes-Application-Developer])<sup>Github</sup>|
 
